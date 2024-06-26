@@ -46,7 +46,6 @@
     <h3>Work Experience</h3>
     <p>Working as Python Software Developer in Tata Consultancy Service Ltd. with 3 years of experience.</p>
     <hr/>
-
     <h3>Roles and Responsibilites</h3>
     <ul>
         <li>I am writing efficient code, reusable, testable and scalable code</li>
@@ -64,7 +63,6 @@
     <p><b>Graduation:</b> Bachelors' of Technology in Chemical Engineering (2017 - 2021)</p>
     <p><b>University:</b> Kavayitri Bahinabai Chaudhari North Maharashtra University</p>
     <hr/>
-
     <h3>Coursework</h3>
     <ul>
         <li>Complete Python Bootcamp</li>
@@ -72,7 +70,6 @@
         <li>Linux Basics</li>
         <li>Data Structures and algorithms</li>
     </ul>
-
     <h3>Interest and Hobbies</h3>
     <ul>
         <li>Typing</li>
