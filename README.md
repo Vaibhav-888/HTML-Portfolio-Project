@@ -59,6 +59,7 @@
         <li>I am involved in the direct client intraction for providing change requests, trouble reports and requirements collection</li>
         <li>I am responsible for debugging and troubleshooting programming related issues</li>
     </ul>
+    <hr/>
     <h3>Education</h3>
     <p><b>Graduation:</b> Bachelors' of Technology in Chemical Engineering (2017 - 2021)</p>
     <p><b>University:</b> Kavayitri Bahinabai Chaudhari North Maharashtra University</p>
@@ -70,6 +71,7 @@
         <li>Linux Basics</li>
         <li>Data Structures and algorithms</li>
     </ul>
+    <hr/>
     <h3>Interest and Hobbies</h3>
     <ul>
         <li>Typing</li>
@@ -79,5 +81,6 @@
         <li>Interest in biology, chemistry and astrophysics</li>
         <li>Keen to learning about the smartphone market</li>
     </ul>
+    <hr/>
 </body>
 </html>
